@@ -3,7 +3,7 @@
 ## Description
 ![License](https://img.shields.io/badge/license--blue.svg)
 
-This app uses Javascript, Node.js, and inquirer.
+This app uses Javascript, Node.js, and inquirer. Click <a href="https://www.youtube.com/watch?v=hP46NGiC_TY&feature=youtu.be">here</a> to see walk-through
 ## Table of content
 undefined 
 
@@ -34,4 +34,4 @@ Check out my [GitHub profile](https://github.com/triathao) for more projects and
 
 If you have additional questions, please email me at triathao@gmail.com.
 
-<iframe src="https://drive.google.com/file/d/1uiYPI5dXNnqk-P6TmrghMj2DdSvfqBBb/preview" width="640" height="480"></iframe>
+
