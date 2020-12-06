@@ -3,7 +3,7 @@
 ## Description
 ![License](https://img.shields.io/badge/license--blue.svg)
 
-This app uses Javascript, Node.js, and inquirer. Click <a href="https://www.youtube.com/watch?v=hP46NGiC_TY&feature=youtu.be">here</a> to see walk-through
+This app uses Javascript, Node.js, and inquirer to generate README.md files. Click <a href="https://youtu.be/W7b0Gm-qKXw">here</a>for walkthrough.
 ## Table of content
 undefined 
 
@@ -17,13 +17,13 @@ undefined
 * [Tests](#tests)
 * [Q&A](#QandA)
 ## Installation
-Install node, npm i, and inquirer.
+node, npm i, and inquirer.
 ## Usage
 With this app the user can save time and easily generate a readme file.
 ## License
 
 ## Contributors
-Tria Thao, others are welcome to contribute but not required.
+Tria Thao
 
 For more information about the project you can contact me @ triathao@gmail.com
 ## Tests
@@ -33,5 +33,3 @@ undefined
 Check out my [GitHub profile](https://github.com/triathao) for more projects and information. 
 
 If you have additional questions, please email me at triathao@gmail.com.
-
-
