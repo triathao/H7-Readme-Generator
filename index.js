@@ -90,8 +90,8 @@ ${resp.contributors}
 \nFor more information about the project you can contact me @ triathao@gmail.com
 ## Tests
 ${resp.tests}
-## FAQ 
-${resp.FAQ}
+## Questions
+${resp.Questions}
 Check out my [GitHub profile](https://github.com/${resp.github}) for more projects and information. 
 \nIf you have additional questions, please email me at ${resp.email}.
 `;

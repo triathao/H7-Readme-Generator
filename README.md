@@ -1,9 +1,9 @@
 
-# Readme generator
+# README Generator
 ## Description
 ![License](https://img.shields.io/badge/license--blue.svg)
 
-This app uses node.js to generate readme
+This project uses Javascrip, Node.js and inquirer to generate or create a readme.md file.
 ## Table of content
 undefined 
 
@@ -17,18 +17,18 @@ undefined
 * [Tests](#tests)
 * [Q&A](#QandA)
 ## Installation
-npm install and inquirer
+To install use node js, npm, and inquirer
 ## Usage
-This app creates a simple way to generate readme.md files
+This apps saves time and resource from a simple step to generate a readme.md
 ## License
 
 ## Contributors
-n/a
+myself. others are welcome not not required
 
 For more information about the project you can contact me @ triathao@gmail.com
 ## Tests
 n/a
-## FAQ 
+## Questions
 undefined
 Check out my [GitHub profile](https://github.com/triathao) for more projects and information. 
 
