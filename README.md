@@ -3,7 +3,7 @@
 ## Description
 ![License](https://img.shields.io/badge/license--blue.svg)
 
-This app uses Javascript, Node.js, and inquirer to generate README.md files. Click <a href="https://youtu.be/W7b0Gm-qKXw">here</a>for walkthrough.
+This app uses Javascript, Node.js, and inquirer to generate README.md files. Click <a href="https://youtu.be/W7b0Gm-qKXw">here</a> for walkthrough.
 ## Table of content
 undefined 
 
